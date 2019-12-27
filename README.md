@@ -2,7 +2,7 @@
 graphql, apollo, react, redis, unsplash api
 
 ### Getting Started
-Install dependencies with `npm`
+Install dependencies with `npm` in both backend and frontend
 ```
 npm install
 ```
