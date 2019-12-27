@@ -8,7 +8,11 @@ npm install
 ```
 
 run the backend at root directory with 
-```npm start```
+```
+npm start
+```
 
 then run the frontend at `/client` with 
-```npm start```
+```
+npm start
+```
